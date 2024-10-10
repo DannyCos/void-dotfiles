@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/danny/projects/ideon-engineering/stm32/stm32f103_opencm3_hello-world'
+let g:netrw_dirhist_8='/home/danny/.mozilla/firefox/jl6iw033.default'
+let g:netrw_dirhist_7='/home/danny/Mail'
+let g:netrw_dirhist_6='/home/danny/.dwm'
+let g:netrw_dirhist_5='/etc/sv/sshd/supervise'
+let g:netrw_dirhist_4='/etc/sv/sshd'
+let g:netrw_dirhist_3='/home/danny/.dwm'
+let g:netrw_dirhist_2='/home/danny/Downloads'
+let g:netrw_dirhist_1='/home/danny/.dwm/.git/rebase-apply'
